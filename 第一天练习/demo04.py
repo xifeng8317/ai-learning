@@ -1,0 +1,11 @@
+nums=[3,1,4,1,5,9,2,6]
+nums.append(7)
+print(nums)
+nums.insert(2,8)
+print(nums)
+nums.remove(1)
+print(nums)
+nums.sort()
+print(nums)
+nums.reverse()
+print(nums)
